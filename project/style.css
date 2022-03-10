@@ -1,0 +1,22 @@
+
+nav {
+    background-color: aquamarine;
+    border: 2px solid;
+    color: blue;
+    
+}
+.column1 {
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.column2
+{
+    background-color: antiquewhite;
+    display: grid;
+}
+
+footer {
+background-color: red;
+}
